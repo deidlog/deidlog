@@ -6,6 +6,8 @@
 - Linux & Shell scripting  
 - Git & GitHub  
 - Docker & Containers  
-- CI/CD  
+- CI/CD
+- Terraform
+- Ansible
 
 📖 Welcome to my GitHub profile!
